@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.dandalf.dansfirstplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dandalf.dansfirstplugin.MyBundle
 
 class MyApplicationService {
 
